@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+
+# Data
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.parquet
+*.duckdb
+*.db
+
+# Power BI
+*.pbix
+
+# System files
+.DS_Store
+Thumbs.db
