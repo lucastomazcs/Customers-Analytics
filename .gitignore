@@ -15,7 +15,9 @@ data/processed/
 *.parquet
 *.duckdb
 *.db
-
+*.duckdb
+*.duckdb.wal
+*.duckdb.tmp
 # Power BI
 *.pbix
 

@@ -24,3 +24,12 @@ Este projeto tem como objetivo analisar o comportamento de clientes de uma empre
 
 Essa observação no momento me gera uma recomendação de:
 A empresa poderia criar campanhas para incentivar clientes mensais a migrarem para planos anuais ou de dois anos, oferecendo descontos, benefícios extras ou vantagens exclusivas.
+
+- Problema central:
+ A empresa quer reduzir o cancelamento de clientes.
+
+- Objetivo analítico:
+Identificar quais clientes, contratos e comportamentos estão mais associados ao churn.
+
+- Resultado esperado:
+Apoiar decisões de retenção com base em dados.
